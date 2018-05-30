@@ -1,6 +1,6 @@
 # Author:
 # PureReactions
-# @PureReactions
+# Twitter @PureReactions
 #
 # Version:
 # 1.0.2
